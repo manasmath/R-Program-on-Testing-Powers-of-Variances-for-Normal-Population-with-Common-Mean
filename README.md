@@ -1,0 +1,1 @@
+# R-Program-on-Testing-Powers-of-Variances-for-Normal-Population-with-Common-Mean
